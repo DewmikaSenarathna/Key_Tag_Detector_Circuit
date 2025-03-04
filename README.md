@@ -32,7 +32,7 @@ The aim of this project was to design a key tag detector circuit that produces a
 ### 🔩 **Components Used:**  
 - 🕑 2 x 555 Timer ICs  
 - 🔧 1 x BC547 Transistor  
-- 🔌 9 x Resistors (300kΩ, 100kΩ, 33kΩ + 10kΩ, 22Ω, 17kΩ)  
+- 🔌 9 x Resistors (300kΩ, 100kΩ, 47kΩ, 33kΩ, 10kΩ, 1kΩ, 22Ω, 17kΩ)  
 - ⚡ 3 x Capacitors (100µF, 10µF)  
 - 🎙️ 1 x Microphone  
 - 💡 2 x 12V LEDs  
