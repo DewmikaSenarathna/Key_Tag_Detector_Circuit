@@ -86,3 +86,11 @@ The key tag detector works by detecting two consecutive claps and generating an 
 
 The key tag detector circuit was successfully designed, simulated, and implemented. It provides an efficient and innovative solution for locating key tags using sound-based detection. The project allowed us to apply theoretical knowledge in a practical setting, enhancing our understanding of electronic circuit design and PCB fabrication.
 
+---
+
+*🌍 I have uploaded the project's technical resources and design documentation, to my GitHub repository.*  
+*🔗 Check out the full project details:* **https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine.git**                                                      
+*🎥 Check out project demo video:* **https://drive.google.com/file/d/1HihwgXaATibKNb9R3H6najb0_js_Nnmm/view?usp=sharing**
+                                         
+*🌟 I’d love to hear your thoughts and feedback as we continue to explore innovative solutions in engineering!*
+
