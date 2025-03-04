@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/DewmikaSenarathna/Key_Tag_Detector_Circuit/blob/main/Final_Circuit.jpg" alt="Alt text">
+  <img src="https://github.com/DewmikaSenarathna/Key_Tag_Detector_Circuit/blob/main/Final_Circuit.jpg" alt="Alt text" width="50%" height="auto">
 </div>
 
 ---
